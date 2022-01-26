@@ -8,13 +8,13 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://twitter.com/Dresa_Alves" target="blank">
-    <img src="https://img.shields.io/twitter/follow/nathally_22?logo=twitter&style=for-the-badge" alt="nathally_22" />
+    <img src="https://img.shields.io/twitter/follow/Dresa_Alveslogo=twitter&style=for-the-badge" alt="Dresa_Alves" />
   </a>
 </div>
 
 ##
 
-My name name is Andresa Alves.
+Meu nome é Andresa Alves.
 
 🌱 Estudante Web Developer.
 ⚡ Curiosity: I learned about basic Computing all by myself when i was 11 years.
