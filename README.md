@@ -1,4 +1,4 @@
-### Hello world 👋
+### Hello!! 👋
 
 <div>
   <a href="mailto:andresa_15ga@hotmail.com">
@@ -23,7 +23,7 @@ Meu nome é Andresa Alves.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andresa-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Andresa-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/html-original.svg">
+  <img align="center" alt="Andresa-TS" height="30" width="40" src="<i class="fab fa-css3-alt"></i>>
   <img align="center" alt="Andresa-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/css-original.svg">
 </div>
 
