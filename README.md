@@ -24,7 +24,7 @@ Meu nome é Andresa Alves.
 <div style="display: inline_block"><br>
   <img align="center" alt="Andresa-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Andresa- HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Andresa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg">
+  <img align="center" alt="Andresa-CSS" height="30" width="40" src="https://www.freepik.com/free-icon/css-file-format-symbol_742772.html">
 </div>
 
 ##
