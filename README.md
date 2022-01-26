@@ -16,8 +16,8 @@
 
 Meu nome é Andresa Alves.
 
-🌱 Estudante Web Developer.
-⚡ Curiosity: I learned about basic Computing all by myself when i was 11 years.
+- 🌱 Estudante Web Developer.
+- ⚡ Curiosity: I learned about basic Computing all by myself when i was 11 years.
 
 ### Main techs
 
