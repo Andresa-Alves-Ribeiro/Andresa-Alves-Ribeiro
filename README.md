@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://twitter.com/Dresa_Alves" target="blank">
-    <img src="https://img.shields.io/twitter/follow/Dresa_Alveslogo=twitter&style=for-the-badge" alt="Dresa_Alves" />
+    <img src="https://img.shields.io/twitter/follow/Dresa_Alves?style=for-the-badge" alt="Dresa_Alves" />
   </a>
 </div>
 
@@ -22,9 +22,9 @@ Meu nome é Andresa Alves.
 ### Main techs
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Andresa-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Andresa- JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Andresa- HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Andresa-CSS" height="30" width="40" src="https://www.freepik.com/free-icon/css-file-format-symbol_742772.html">
+  <img align="center" alt="Andresa- CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
 ##
