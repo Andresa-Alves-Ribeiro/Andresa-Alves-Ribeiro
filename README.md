@@ -11,7 +11,8 @@
   </a>
   <a href="https://twitter.com/Dresa_Alves" target="blank">
     <img src="https://img.shields.io/twitter/follow/Dresa_Alves?style=for-the-badge" alt="Dresa_Alves" />
-  </a>
+  </a> 
+  <a href="https://www.instagram.com/dresa.alves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ##
@@ -27,6 +28,7 @@ Meu nome é Andresa Alves.
   <img align="center" alt="Andresa- JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Andresa- HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Andresa- CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="Andresa- TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
 ##
@@ -34,6 +36,8 @@ Meu nome é Andresa Alves.
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andresa-Alves-Ribeiro&show_icons=true&theme=radical">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresa-Alves-Ribeiro&layout=compact&theme=radical">
+  
+    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <!--
