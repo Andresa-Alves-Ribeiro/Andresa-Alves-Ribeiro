@@ -1,6 +1,6 @@
 ### Olá!! Eu sou a Andresa <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Andresa-Alves-Ribeiro&color=ff69b4&style=for-the-badge" alt="Profile views" /> </p>
 
 <div>
   <a href="mailto:andresa_15ga@hotmail.com">
@@ -21,7 +21,7 @@
 - 🖥️ Estudante Web Developer.
 - ✨ Curiosity: I learned about basic Computing all by myself when i was 11 years.
 
-### Main techs
+## 🛠 &nbsp;Tech Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andresa- JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -30,7 +30,9 @@
     <img align="center" alt="Andresa- TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
-##
+<br>
+
+## ⚙️ &nbsp;GitHub Analytics
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andresa-Alves-Ribeiro&show_icons=true&theme=radical">
