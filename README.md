@@ -1,4 +1,4 @@
-### Olá!! Eu sou a Andresa 👋
+### Olá!! Eu sou a Andresa <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 
 
@@ -18,10 +18,8 @@
 
 ##
 
-Meu nome é Andresa Alves.
-
-- 🌱 Estudante Web Developer.
-- ⚡ Curiosity: I learned about basic Computing all by myself when i was 11 years.
+- 🖥️ Estudante Web Developer.
+- ✨ Curiosity: I learned about basic Computing all by myself when i was 11 years.
 
 ### Main techs
 
