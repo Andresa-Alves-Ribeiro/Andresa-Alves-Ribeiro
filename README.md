@@ -35,8 +35,10 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andresa-Alves-Ribeiro&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresa-Alves-Ribeiro&layout=compact&theme=radical">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Andresa-Alves-Ribeiro&show_icons=true&theme=radical">
+  <a href="http://www.github.com/Andresa-Alves-Ribeiro"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andresa-Alves-Ribeiro
+&theme=dracula&hide_border=true"></a>&nbsp;
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresa-Alves-Ribeiro&layout=compact&theme=radical">
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
