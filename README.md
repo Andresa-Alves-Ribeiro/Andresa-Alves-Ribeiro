@@ -27,7 +27,10 @@
   <img align="center" alt="Andresa- JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Andresa- HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Andresa- CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="Andresa- TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Andresa- TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="GIT" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <br>
@@ -35,10 +38,9 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Andresa-Alves-Ribeiro&show_icons=true&theme=radical">
-  <a href="http://www.github.com/Andresa-Alves-Ribeiro"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andresa-Alves-Ribeiro
-&theme=dracula&hide_border=true"></a>&nbsp;
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresa-Alves-Ribeiro&layout=compact&theme=radical">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Andresa-Alves-Ribeiro&show_icons=true&theme=dracula&hide_border=true">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andresa-Alves-Ribeiro&theme=dracula&hide_border=true"></a>&nbsp;
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresa-Alves-Ribeiro&layout=compact&theme=dracula&hide_border=true">
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
