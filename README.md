@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/twitter/follow/Dresa_Alves?style=for-the-badge" alt="Dresa_Alves" />
   </a> 
   <a href="https://www.instagram.com/dresa.alves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/yDRw4rRu8S" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="AndresaAlves#0101" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
