@@ -1,4 +1,3 @@
-### Olá!! Eu sou a Andresa <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="2px">![Captura de tela 2022-05-17 181042](https://user-images.githubusercontent.com/94997593/173963574-8169f70c-42b8-4df4-aa53-87d321131f28.jpg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Andresa-Alves-Ribeiro&color=ff69b4&style=for-the-badge" alt="Profile views" /> </p>
@@ -18,7 +17,7 @@
 
 ##
 
-- 🖥️ Estudante Web Developer.
+- 🖥️ Web Developer.
 - ✨ Curiosity: I learned about basic Computing all by myself when i was 11 years.
 
 ## 🛠 &nbsp;Tech Stack
