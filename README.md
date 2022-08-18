@@ -20,6 +20,7 @@
 ##
 - 🖥️ Web Developer.
 - ✨ Curiosity: I learned about basic Computing all by myself when i was 11 years.
+- 📚 Studying System analysis and development in UNIP (Universidade Paulista).
 
 ## 🛠 &nbsp;Habilidades Principais
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
