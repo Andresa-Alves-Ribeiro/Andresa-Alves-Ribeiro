@@ -39,8 +39,9 @@
 ![Knex.js](https://img.shields.io/badge/-knex.js-0D1117?style=for-the-badge&logo=knex.js&labelColor=0D1117)&nbsp;
 
 ## ⚙️ &nbsp;Habilidades que quero aprender
-![tailwindcss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div>
   <img height="138em" src="https://github-readme-stats.vercel.app/api?username=Andresa-Alves-Ribeiro&show_icons=true&theme=dracula&hide_border=true">
