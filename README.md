@@ -20,7 +20,7 @@
 ##
 - 🖥️ Web Developer.
 - ✨ Curiosity: I learned about basic Computing all by myself when i was 11 years.
-- 📚 Studying System analysis and development in UNIP (Universidade Paulista).
+- 📚 Studying System analysis in UniFavip.
 
 ## 🛠 &nbsp;Habilidades Principais
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -36,7 +36,6 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Express](https://img.shields.io/badge/-express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Knex.js](https://img.shields.io/badge/-knex.js-0D1117?style=for-the-badge&logo=knex.js&labelColor=0D1117)&nbsp;
 
 ## ⚙️ &nbsp;Habilidades que quero aprender
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
