@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F765BEFF&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=500&color=F765BE&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Andresa;Sou+desenvolvedora+Web+Full-Stack%2FFront-end;Estudo+An%C3%A1lise+e+desenvolvimento+de+sistemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=500&color=F765BE&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Andresa;Sou+desenvolvedora+Web+Full-Stack;Estudo+Sistemas+de+Informação)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Andresa-Alves-Ribeiro&color=ff69b4&style=for-the-badge" alt="Profile views" /> </p>
 
