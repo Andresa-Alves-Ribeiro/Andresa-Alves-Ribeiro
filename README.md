@@ -12,10 +12,10 @@
     <td>
 
 - 💻 Desenvolvedora Web Full Stack com foco atual em Front-end  
-- 🎓 Cursando Sistemas de Informação (UniFavip)  
+- 🎓 Cursando Sistemas de Informação (Cnetro Universitário UnimetroCamp)  
 - 🧠 Apaixonada por tecnologia, design e aprendizado contínuo  
 - 🌐 Desenvolvendo projetos reais com React, Next.js e TypeScript  
-- 🎯 Meta atual: dominar Python e Vue.js  
+- 🎯 Meta atual: dominar Python, Node;js e Vue.js  
     </td>
     
     <td>
