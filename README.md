@@ -88,8 +88,13 @@
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andresa-Alves-Ribeiro&theme=dracula&hide_border=true" />
 </div>
 
-<!-- Snake -->
-![Snake animation](https://github.com/Andresa-Alves-Ribeiro/Andresa-Alves-Ribeiro/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andresa-Alves-Ribeiro/Andresa-Alves-Ribeiro/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andresa-Alves-Ribeiro/Andresa-Alves-Ribeiro/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Andresa-Alves-Ribeiro/Andresa-Alves-Ribeiro/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <!-- Footer -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F765BEFF&height=120&section=footer"/>
