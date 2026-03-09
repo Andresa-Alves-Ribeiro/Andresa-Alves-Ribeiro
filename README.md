@@ -12,7 +12,7 @@
     <td>
 
 - 💻 Desenvolvedora Web Full Stack com foco atual em Front-end  
-- 🎓 Cursando Sistemas de Informação (Cnetro Universitário UnimetroCamp)  
+- 🎓 Cursando Sistemas de Informação (Centro Universitário UnimetroCamp)  
 - 🧠 Apaixonada por tecnologia, design e aprendizado contínuo  
 - 🌐 Desenvolvendo projetos reais com React, Next.js e TypeScript  
 - 🎯 Meta atual: dominar Python, Node;js e Vue.js  
@@ -85,9 +85,7 @@
 ## 📊 GitHub Stats
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Andresa-Alves-Ribeiro&show_icons=true&theme=dracula&hide_border=true" />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andresa-Alves-Ribeiro&theme=dracula&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresa-Alves-Ribeiro&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
 <!-- Snake -->
